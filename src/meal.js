@@ -5,11 +5,11 @@ function nameMenuItem(string) {
 
 
 function createMenuItem(itemName, itemPrice, itemType) {
-    return {
-      name: itemName,
-      price: itemPrice,
-      type: itemType,
-    }
+  return {
+    name: itemName,
+    price: itemPrice,
+    type: itemType,
+  }
 }
 
 
